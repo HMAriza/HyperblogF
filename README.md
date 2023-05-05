@@ -1,5 +1,5 @@
 # hyperblog
-Un blog increíble para el curso de Git y Github de Platzi
+Un blog increible para el curso de Git y Github de Platzi
 
 este creado po Hector Ariza
 Bienvenido
